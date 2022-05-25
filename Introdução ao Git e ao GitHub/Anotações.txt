@@ -4,3 +4,9 @@ https://git-scm.com/
 O Git Bash é um termnal estendido para otimizar o uso do Git.
 
 Alguns comandos do Git:
+
+Git Add - Adiciona os arquivos
+Git Init - Cria um novo repositório
+Git Commits - Executa o commit dos arquivos adicionados
+Git Status - Monitora o status dos arquivos. 
+Exibe a lista dos arquivos alterados e dos arquivos que ainda não foram adicionados ou confirmados.
